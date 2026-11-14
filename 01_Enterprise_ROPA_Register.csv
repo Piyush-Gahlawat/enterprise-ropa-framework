@@ -1,0 +1,4 @@
+ROPA ID,Processing Activity,Data Subject,Categories of PII,Purpose of Processing,Legal Basis,Recipients / Sub-processors,Retention Period,Cross-Border Transfer,Security Measures
+ROPA-001,Employee Payroll,Employees,Name; Bank Account; PAN,To pay salaries,Contractual Necessity,HDFC Bank; HR Software,7 years post-termination,No,Access Control; Encryption
+ROPA-002,Website Analytics,Website Visitors,IP Address; Browser Metadata,Track site traffic,Legitimate Interest,Google Analytics,14 months,Yes (US),Anonymized IP
+ROPA-003,Marketing Emails,Prospects,Name; Email,To send newsletters,Consent,Mailchimp,Until Unsubscribed,Yes (US),Opt-in Consent
